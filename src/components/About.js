@@ -6,14 +6,11 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Eds.
-            <br className="hidden lg:inline-block"/>I love to build awesome
-            apps.
+            Hi there, I'm Eddie 😊
+            <br className="hidden lg:inline-block"/>I love to build awesome apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I'm a Full Stack Software Developer.
           </p>
           <div className="flex justify-center">
             <a
@@ -34,7 +31,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="../"
+            src="https://avatars.githubusercontent.com/u/88496688?v=4"
           />
         </div>
       </div>

@@ -39,10 +39,13 @@ export const skills = [
   "JavaScript ES6",
   "React JS",
   "Ruby",
-  "Ruby on Rails 6",
-  "Bootstrap 4",
+  "Ruby on Rails",
+  "PostgreSQL",
+  "Python",
+  "Bootstrap",
   "Github",
-  "Heroku"
+  "Heroku",
+  "Netlify"
 ];
 
 export const testimonials = [
