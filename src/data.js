@@ -43,42 +43,38 @@ export const skills = [
   "PostgreSQL",
   "Python",
   "Bootstrap",
-  "Github",
+  "Git",
   "Heroku",
   "Netlify"
 ];
 
 export const testimonials = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
-      description:
+      name: "Elon Musk",
+      company: "Tesla",
+      quote:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+      image: "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTk2ODUyMTMxNzM0ODcy/gettyimages-1229892983-square.jpg",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
-      description:
+      name: "Jack Dorsey",
+      company: "Twitter",
+      quote:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reedbarger.com",
+      image: "https://cdn.britannica.com/31/217131-050-3DF60FAE/Twitter-founder-Jack-Dorsey-2018.jpg",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
-      description:
+      name: "Kevin Mitnick",
+      company: "KnowBe4",
+      quote:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://jsbootcamp.com",
+      image: "https://streamer.espeakers.com/assets/6/8726/209933.jpg",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
-      description:
+      name: "Steve Wozniak",
+      company: "Privateer Space",
+      quote:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://pythonbootcamp.com",
-    },
+      image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Steve_Wozniak_by_Gage_Skidmore_3_%28cropped%29.jpg/1200px-Steve_Wozniak_by_Gage_Skidmore_3_%28cropped%29.jpg",
+    }
 ];
